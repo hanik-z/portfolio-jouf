@@ -9,10 +9,8 @@ body {
 
 header {
     text-align: center;
-    padding: 80px 20px; /* مساحة فوق وتحت لإبراز الخلفية */
-    background-image: url('background.png.');
-    background-size: cover;
-    background-position: center;
+    padding: 20px;
+    background-color: #880000;
     color: white;
 }
 
